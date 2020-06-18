@@ -2,9 +2,9 @@
 
 ## Instructions
 
-- **Fork** this repository, then clone your fork.
-- Run `npm install` to download dependencies.
-- Run the server using `npm start`.
+- **Fork** this repository, then clone your fork. done
+- Run `npm install` to download dependencies.done 
+- Run the server using `npm start`.dine
 - In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
 - Still inside the `client` folder run `npm start` to run the client application.
 
